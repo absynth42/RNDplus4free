@@ -15,6 +15,7 @@
 // @match https://*.paz-online.de/*.html*
 // @match https://*.sn-online.de/*.html*
 // @match https://*.rnd.de/*.html*
+// @match https://*.siegener-zeitung.de/*.html*
 // ==/UserScript==
 
 // Redirect from AMP to normal site
